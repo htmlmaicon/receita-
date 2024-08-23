@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Carne de panela com batata",
+    "categoria": "Salgados",
+    "image": "https://img.cybercook.com.br/receitas/477/carne-de-panela-com-batata-1.jpeg",
+    "descricao": "Ingredientes: 1 kg de carne de acém cortada em cubos grandes, 2 colheres (sopa) de óleo de milho, 2 colheres (sopa) de cebola granulada, 2 cubos de caldo natural, colorau a gosto, cheiro-verde a gosto, água (até cobrir a carne), 5 batatas médias descascadas e cortadas ao meio. Modo de preparo: 45min. 1 - Em uma panela de pressão coloque o óleo e a cebola, deixe até que ela fique bem moreninha. 2 - Junte a carne cortada em cubos médios, deixe dourar por 15 minutos. 3 - Junte os 2 cubos de caldo natural e o colorau a gosto. 4 - Coloque a água até que cubra a carne, não ultrapasse a carne. 5 - Coloque na pressão por 25 minutos. 6 - Retire do fogo, tire a pressão e junte as batatas e o cheiro-verde. 7 - Coloque na pressão novamente, conte 5 minutos após a panela de pressão começar a apitar e desligue o fogo."
+  },
+  {
+    "id": 2,
+    "nome": "Macarrão ao alho e óleo",
+    "categoria": "Salgados",
+    "image": "https://www.kitano.com.br/wp-content/uploads/2019/08/Kitano-RecipeImages-770x550-MacarraoAoAlhoOleo.jpg",
+    "descricao": "Ingredientes: 5 dentes de alho amassados, 1 colher de sopa de manteiga, 5 colheres de sopa de óleo, Sal a gosto. Modo de preparo: 30min. 1 - Amasse bem o alho juntamente com o sal, formando uma pasta. 2 - Em uma frigideira, coloque o alho amassado e o óleo. 3 - Frite em fogo médio sem deixar o alho queimar, só dourar. 4 - Acrescente a manteiga e deixe ferver um pouco, só para incorporar bem o sabor, mexendo sempre. 5 - Coloque sobre o macarrão imediatamente."
+  },
+  {
+    "id": 3,
+    "nome": "Hambúrguer caseiro simples",
+    "categoria": "Salgados",
+    "image": "https://img.saborosos.com.br/imagens/hamburguer-caseiro-500x500.jpg",
+    "descricao": "Ingredientes: 3 kg de carne moída, 300 g de bacon moído, 1 ovo, 3 colheres (sopa) de farinha de trigo, 30 ml de água gelada, tempero a gosto. Modo de preparo: 1 - Misture todos os ingredientes muito bem e amasse para que fique tudo muito bem misturado. 2 - Faça porções de 90 g a 100 g. 3 - Forre um plástico molhado em uma bancada e modele os hambúrgueres utilizando um aro como base. 4 - Faça um de cada vez e retire o aro logo em seguida. 5 - Forre uma assadeira de metal com plástico, coloque os hambúrgueres e intercale camadas de carne e plásticos (sem apertar). 6 - Faça no máximo 4 camadas por forma e leve para congelar. 7 - Retire do congelador, frite ou asse e está pronto."
+  },
+  {
+    "id": 4,
+    "nome": "Pavê de ouro",
+    "categoria": "Doces",
+    "image": "https://i.ytimg.com/vi/3rPU_xoGhWE/maxresdefault.jpg",
+    "descricao": "Ingredientes: 200 gramas de chocolate branco, 2 pacotes de biscoito de leite, 10 bombons de chocolate branco, 1 lata de leite condensado, 1/2 litro de leite, 1/2 xícara de leite em pó, 1 lata de creme de leite, 3 colheres de sopa de amido de milho, 200 gramas de chocolate ao leite. Modo de Preparo: 1 - Misture leite condensado, creme de leite e leite em pó em uma panela em fogo médio. Mexa bem. 2 - Em outra tigela, dissolva o amido de milho no leite. Misture bem. 3 - Coloque o líquido no creme da panela e mexa bem, sem parar, com um fouet. 4 - Quando o creme atingir ponto de mingau, misture metade com chocolate ao leite e a outra metade com chocolate branco. 5 - Mexa muito bem até que os dois cremes fiquem homogêneos. Montagem: 1 - Em uma travessa, faça uma camada de creme de chocolate branco. 2 - Depois, faça uma camada de biscoito. Em seguida, faça uma camada de chocolate ao leite. 3 - Adicione mais biscoitos por cima. Siga a sequência até o topo da travessa. 4 - Finalize com creme branco e bombons de chocolate branco. 5 - Leve à geladeira e sirva no dia seguinte."
+  },
+  {
+    "id": 5,
+    "nome": "Brigadeiro de café",
+    "categoria": "Doces",
+    "image": "https://www.receiteria.com.br/wp-content/uploads/brigadeiro-de-cafe-capa.png",
+    "descricao": "Ingredientes: 1 lata de leite condensado, 4 colheres (sopa) de achocolatado, 1 colher (sopa) de café solúvel, 1/2 xícara de leite, 1 colher (sopa) de manteiga ou margarina, chocolate granulado. Modo de Preparo: 1 - Junte todos os ingredientes em uma panela e leve ao fogo médio. 2 - Mexa sempre até a mistura desgrudar do fundo da panela. 3 - Depois de esfriar, unte as mãos com margarina e enrole os brigadeiros, passando no chocolate granulado."
+  },
+  {
+    "id": 6,
+    "nome": "Bolo de Cenoura",
+    "categoria": "Doces",
+    "image": "https://static.itdg.com.br/images/360-240/d290bc79bcad112ee9095604e45eb262/365326-original.jpg",
+    "descricao": "Ingredientes: 1/2 xícara (chá) de óleo, 3 cenouras médias raladas, 4 ovos, 2 xícaras (chá) de açúcar, 2 e 1/2 xícaras (chá) de farinha de trigo, 1 colher (sopa) de fermento em pó. Cobertura: 1 colher (sopa) de manteiga, 3 colheres (sopa) de chocolate em pó, 1 xícara (chá) de açúcar, 1 xícara (chá) de leite. Modo de preparo: 1 - Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture. 2 - Acrescente o açúcar e bata novamente por 5 minutos. 3 - Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente. 4 - Acrescente o fermento e misture lentamente com uma colher. 5 - Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos. Cobertura: 1 - Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture. 2 - Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo."
+  }
+]
